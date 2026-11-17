@@ -3,7 +3,7 @@ name = "SigmaOS-alpm-rs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "alpm-rs component"
+description = "SigmaOS alpm-rs component (Arch Linux inspired)"
 upstream = []
 
 [contract]
